@@ -39,7 +39,7 @@
       <h3>🌍 Información Profesional</h3>
       <ul>
         <li>📍 <b>Ubicación:</b> La Oroya, Junín, Perú 🇵🇪</li>
-        <li>🎓 <b>Educación:</b> Especialización en IA - SENATI (2025)</li>
+        <li>🎓 <b>Educación:</b> Especialización en IA - (2025)</li>
         <li>🗣️ <b>Idiomas:</b> Español (Nativo) | Inglés Técnico (B1)</li>
         <li>🚀 <b>Meta Actual:</b> Automatización avanzada, Cloud Architecture y ML Ops.</li>
       </ul>
