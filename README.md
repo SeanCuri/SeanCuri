@@ -2,8 +2,10 @@
 ### Ingeniero de Software con Inteligencia Artificial
 
 <div align="center">
-  <!-- Banner de bienvenida dinámico -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Bienvenido%20a%20mi%20Perfil&fontSize=40&animation=fadeIn" alt="Banner" />
+  <!-- Redirige el clic a tu propio perfil para que no abra la página en blanco -->
+  <a href="https://github.com/SeanCuri">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Bienvenido%20a%20mi%20Perfil&fontSize=40&animation=fadeIn" alt="Banner" />
+  </a>
 </div>
 
 ---
