@@ -23,25 +23,25 @@
 
 ## 📖 Sobre Mí
 
-Egresado en **Ingeniería de Software con Inteligencia Artificial** por **SENATI**. Me especializo en el desarrollo de soluciones de arquitectura robusta, optimización avanzada de sistemas y la implementación de Inteligencia Artificial para la resolución de problemas de nivel institucional en entornos reales. Apasionado por la infraestructura en la nube, el código de alto rendimiento y la automatización inteligente[cite: 1].
+**Ingeniero de Software con Inteligencia Artificial**. Me especializo en el desarrollo de soluciones de arquitectura robusta, optimización avanzada de sistemas y la implementación de Inteligencia Artificial para la resolución de problemas de nivel institucional en entornos reales. Apasionado por la infraestructura en la nube, el código de alto rendimiento y la automatización inteligente.
 
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>🎯 Enfoque y Core de Ingeniería</h3>
       <ul>
-        <li>🤖 <b>Computer Vision & AI:</b> Modelado e implementación de sistemas biométricos de precisión en tiempo real[cite: 1].</li>
-        <li>☁️ <b>Cloud Computing:</b> Despliegue, gestión y optimización de infraestructura escalable[cite: 1].</li>
-        <li>📱 <b>Multiplataforma Avanzado:</b> Ingeniería de aplicaciones ágiles y optimizadas para alto rendimiento móvil[cite: 1].</li>
+        <li>🤖 <b>Computer Vision & AI:</b> Modelado e implementación de sistemas biométricos de precisión en tiempo real.</li>
+        <li>☁️ <b>Cloud Computing:</b> Despliegue, gestión y optimización de infraestructura escalable.</li>
+        <li>📱 <b>Multiplataforma Avanzado:</b> Ingeniería de aplicaciones ágiles y optimizadas para alto rendimiento móvil.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>🌍 Información Profesional</h3>
       <ul>
-        <li>📍 <b>Ubicación:</b> La Oroya, Junín, Perú 🇵🇪[cite: 1]</li>
-        <li>🎓 <b>Educación:</b> Especialización en IA - SENATI (2025)[cite: 1]</li>
-        <li>🗣️ <b>Idiomas:</b> Español (Nativo) | Inglés Técnico (B1)[cite: 1]</li>
-        <li>🚀 <b>Meta Actual:</b> Automatización avanzada, Cloud Architecture y ML Ops[cite: 1].</li>
+        <li>📍 <b>Ubicación:</b> La Oroya, Junín, Perú 🇵🇪</li>
+        <li>🎓 <b>Educación:</b> Especialización en IA - SENATI (2025)</li>
+        <li>🗣️ <b>Idiomas:</b> Español (Nativo) | Inglés Técnico (B1)</li>
+        <li>🚀 <b>Meta Actual:</b> Automatización avanzada, Cloud Architecture y ML Ops.</li>
       </ul>
     </td>
   </tr>
@@ -72,12 +72,12 @@ Egresado en **Ingeniería de Software con Inteligencia Artificial** por **SENATI
 
 ## 🎖️ Certificaciones de Élite
 
-Para asegurar un estándar de calidad internacional, cuento con las siguientes credenciales validadas por las empresas líderes de la industria[cite: 1]:
+Para asegurar un estándar de calidad internacional, cuento con las siguientes credenciales validadas por las empresas líderes de la industria:
 
-*   ☁️ **AWS Academy Graduate:** Cloud Operations (40 h) & Cloud Foundations (20 h)[cite: 1].
-*   ☕ **Oracle Certified:** AI with ML in Java | Java Foundations | Database Design | Database Programming with SQL[cite: 1].
-*   🌐 **Cisco Networking Academy:** PCAP (Programming Essentials in Python) | Introduction to Data Science | Cybersecurity[cite: 1].
-*   📊 **SAP ERP Specialist:** Módulos MM, PP, FI, SD Aprobados con **Calificación Perfecta 20/20**[cite: 1].
+*   ☁️ **AWS Academy Graduate:** Cloud Operations (40 h) & Cloud Foundations (20 h).
+*   ☕ **Oracle Certified:** AI with ML in Java | Java Foundations | Database Design | Database Programming with SQL.
+*   🌐 **Cisco Networking Academy:** PCAP (Programming Essentials in Python) | Introduction to Data Science | Cybersecurity.
+*   📊 **SAP ERP Specialist:** Módulos MM, PP, FI, SD Aprobados con **Calificación Perfecta 20/20**.
 
 ---
 
@@ -87,11 +87,11 @@ Para asegurar un estándar de calidad internacional, cuento con las siguientes c
   <tr>
     <td>
       <h3>👁️ Sistema Inteligente de Control de Asistencia Biométrico (UGEL Yauli)</h3>
-      <p><b>Desarrollador de Software Principal (Prácticas)</b> | <i>Ago. 2024 - Nov. 2025</i>[cite: 1]</p>
-      <p>Diseño, desarrollo y despliegue en producción de una aplicación con reconocimiento facial automatizado utilizando técnicas de <b>Visión Artificial</b>[cite: 1]. El sistema reemplazó con éxito un ecosistema de registro manual tradicional, mitigando el fraude por suplantación y optimizando los tiempos de auditoría interna de la institución de manera drástica[cite: 1].</p>
+      <p><b>Desarrollador de Software Principal </b> | <i>Ago. 2024 - Nov. 2025</i></p>
+      <p>Diseño, desarrollo y despliegue en producción de una aplicación con reconocimiento facial automatizado utilizando técnicas de <b>Visión Artificial</b>. El sistema reemplazó con éxito un ecosistema de registro manual tradicional, mitigando el fraude por suplantación y optimizando los tiempos de auditoría interna de la institución de manera drástica.</p>
       <ul>
-        <li><b>Administración Integral:</b> Gestión paralela de la plataforma ministerial <b>NEXUS</b> para licencias y contratos de personal docente[cite: 1].</li>
-        <li><b>Arquitectura:</b> Python, OpenCV, Modelos de Machine Learning y Base de Datos Relacional Eficiente[cite: 1].</li>
+        <li><b>Administración Integral:</b> Gestión paralela de la plataforma ministerial <b>NEXUS</b> para licencias y contratos de personal docente.</li>
+        <li><b>Arquitectura:</b> Python, OpenCV, Modelos de Machine Learning y Base de Datos Relacional Eficiente.</li>
       </ul>
       <!-- Recuerda actualizar el enlace '#' cuando crees tu repositorio público -->
       <p align="right">
