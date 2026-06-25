@@ -12,7 +12,7 @@
 
 ## 🚀 Sobre Mí
 
-Graduado en **Ingeniería de Software con Inteligencia Artificial** en **SENATI**. Me especializo en construir soluciones robustas, optimizar el rendimiento de sistemas y aplicar inteligencia artificial para resolver problemas del mundo real. Me apasiona el código limpio, la arquitectura de software escalable y el aprendizaje continuo de tecnologías de vanguardia.
+**Ingeniero de Software con Inteligencia Artificial**. Me especializo en construir soluciones robustas, optimizar el rendimiento de sistemas y aplicar inteligencia artificial para resolver problemas del mundo real. Me apasiona el código limpio, la arquitectura de software escalable y el aprendizaje continuo de tecnologías de vanguardia.
 
 <table align="center" width="100%">
   <tr>
@@ -28,7 +28,7 @@ Graduado en **Ingeniería de Software con Inteligencia Artificial** en **SENATI*
       <h3>🎯 Enfoque Profesional</h3>
       <ul>
         <li>🤖 Desarrollo de Soluciones con Inteligencia Artificial y Visión Artificial</li>
-        <li>📱 Optimización y desarrollo de aplicaciones móviles estables</li>
+        <li>📱 Optimización y desarrollo de aplicaciones estables</li>
         <li>🖥️ Backend robusto y automatización de procesos mediante scripts eficientes</li>
       </ul>
     </td>
