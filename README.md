@@ -79,8 +79,6 @@ Graduado en **Ingeniería de Software con Inteligencia Artificial** en **SENATI*
   </tr>
 </table>
 
-*(Nota: A medida que subas más repositorios de ingeniería y utilidades de optimización, los iremos estructurando en esta sección).*
-
 ---
 
 ## 📊 Métricas de Ingeniería y Rendimiento
